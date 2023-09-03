@@ -1,11 +1,11 @@
-[submodule "/Users/djuromatic/.config/tmux/plugins/continuum"]
-	path = /Users/djuromatic/.config/tmux/plugins/continuum
+[submodule "tmux-continuum"]
+	path = plugins/tmux-continuum
 	url = https://github.com/tmux-plugins/tmux-continuum.git
 
-[submodule "/Users/djuromatic/.config/tmux/plugins/resurrect"]
-	path = /Users/djuromatic/.config/tmux/plugins/resurrect
+[submodule "resurrect"]
+	path = plugins/tmux-resurrect
 	url = https://github.com/tmux-plugins/tmux-resurrect.git
 
-[submodule "/Users/djuromatic/.config/tmux/plugins/themepack"]
-	path = /Users/djuromatic/.config/tmux/plugins/themepack
-	url = https://github.com/jimeh/tmux-themepack.git
+[submodule "tmux-themepack"] 
+  path = plugins/tmux-themepack 
+  url = https://github.com/jimeh/tmux-themepack.git
