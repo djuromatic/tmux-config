@@ -5,3 +5,7 @@
 [submodule "~/.config/tmux/plugins/resurrect"]
   path = "~/.config/tmux/plugins/resurrect"
   url = https://github.com/tmux-plugins/tmux-resurrect.git
+
+[submodule "~/.config/tmux/plugins/themepack"]
+  path = ~/.config/tmux/plugins/themepack
+  url = https://github.com/jimeh/tmux-themepack.git
