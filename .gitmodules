@@ -1,0 +1,7 @@
+[submodule "~/.config/tmux/plugins/continuum"]
+	path = ~/.config/tmux/plugins/continuum
+	url = https://github.com/tmux-plugins/tmux-continuum.git
+
+[submodule "~/.config/tmux/plugins/resurrect"]
+  path = "~/.config/tmux/plugins/resurrect"
+  url = https://github.com/tmux-plugins/tmux-resurrect.git
